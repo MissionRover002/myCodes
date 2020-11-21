@@ -30,11 +30,15 @@ import unittest
 
 def flip_123(n):
     sn = str(n)
+    c = 0
     for i in sn:
         if i != 3:
-            sn[c] = 3
+            nsn =+ "3"
             n = int(sn)
             break
+        else:
+            nsn =+ sn[c]
+        c = 0
     return n
 
 
