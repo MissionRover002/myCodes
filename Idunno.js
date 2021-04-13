@@ -1,0 +1,1 @@
+console.log("I'm ready I'm ready, to take on the world on the world I am ready. You can't stop me now. YEAH!");
