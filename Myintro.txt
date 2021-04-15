@@ -1,0 +1,1 @@
+I have got the whole idea of how we are gonna make this website, we are gonna use MEAN, html and css will take to much time. MEAN stands for MongoDB is used for databases, ExpressJS for handling the requests, AngularJS for front-end and NodeJS for executing the JavaScript, the JavaScript is used to write the logic for the filtering and stuff to find the best product for the user.
